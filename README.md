@@ -1,2 +1,2 @@
-# zadanie12_5
-https://teyreach.github.io/zadanie12_5/
+# AJAX-API-Random-quote-machine
+https://teyreach.github.io/AJAX-API-Random-quote-machine/
